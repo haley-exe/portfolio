@@ -39,8 +39,21 @@ export const workExperience = [
     position: "Project Lead",
     period: "Jun 2018 - Feb 2019",
     achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
+      "Wrote and edited SOWs and Master Agreements for contracts affecting thousands of utility customers",
+      "Created workflow diagrams, process documents and FAQs to increase internal client adoption of new tech and processes",
+      "Revised internal communications and procedure documentation to drive collaboration and successful project completion",
+    ],
+  },
+  {
+    company: "Trammell Ventures",
+    location: "Austin, TX",
+    position: "Associate Project Manager",
+    period: "Aug 2019 - May 2020",
+    achievements: [
+      "Directly managed a 4-person application development team; successfully deliverd proof of concept for a gaming application on scheduel and per requirements",
+      "Implemented and managed weekly project standups, regular backlog grooming and workflows for a web app development project",
+      "Revised internal communications and procedure documentation to drive collaboration and successful project completion",
+      "Developed and documented a comprehensive project workflow, encompassing lead capture through product delivery, which incorporated Agile and Waterfall methodologies",
     ],
   },
 ];
@@ -98,28 +111,28 @@ export const skills = {
 export const projects = [
   {
     title: "Process analysis and implementation",
-    github: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
+    linkedin: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
     description: [
       "Haley is exceptional at process analysis and implementation. She doesn't just deploy systems, she makes an effort to understand how teams actually work and builds frameworks that accelerate execution... Haley is the kind of program manager who makes complex coordination look effortless. Whether it's Jira, Confluence, vendor management, or spreadsheets, teams don't worry about the things she owns, which frees them to focus on work only they can do.",
     ],
   },
   {
     title: "Crafting order from chaos",
-    github: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
+    linkedin: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
     description: [
       "[Haley] was the program manager for my technical writing team at Cloudflare. Sprint planning, retros, team meetings, Jira, you-name-it, she ran all of it and ran it well. But where I leaned on her most was the big chaotic stuff. We'd have projects that required updating thousands of pages, migrating links, coordinating across writers and teams on tight timelines. Haley would put together a project plan fast, and it would actually hold. She figured out sequencing and blockers and kept people moving without micromanaging anyone.",
     ],
   },
   {
     title: "Reshaping organization to drive delivery",
-    github: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
+    linkedin: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
     description: [
       "Haley joined our small development team long after our project started, while it was meandering along with hazy objectives and no hard deadlines. In virtually no time at all, Haley took the reins and started whipping things into shape. She completely reshaped the way we organized our tasks, gave us some structure to work with, then negotiated a deadline with the CEO and absolutely crushed it.",
     ],
   },
     {
     title: "Improves everything she touches",
-    github: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
+    linkedin: "https://www.linkedin.com/in/haley-eliz-campbell/details/recommendations/",
     description: [
       "Haley excels at understanding product team needs and finding the right blend of processes and tools that will help them deliver efficiently while also being adept at reporting up the chain to her management and to clients. She's an excellent communicator, tackles problems enthusiastically, zooms between big pictures and being detail-oriented, is great at introducing her teams and clients to new concepts, and brings process improvement to everything she touches.",
     ],
