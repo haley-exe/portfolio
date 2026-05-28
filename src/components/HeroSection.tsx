@@ -48,7 +48,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+              Project Wrangler 
             </motion.p>
 
             <motion.div
@@ -63,16 +63,6 @@ export default function HeroSection() {
                 <MapPin className="h-4 w-4 mr-2" />
                 📍 {personalInfo.location}
               </motion.div>
-
-              <motion.a
-                href={`mailto:${personalInfo.email}`}
-                className="flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors"
-                variants={childVariants}
-                whileHover={{ scale: 1.05, color: "#4b5563" }}
-              >
-                <Mail className="h-4 w-4 mr-2" />
-                ✉️ {personalInfo.email}
-              </motion.a>
 
               <motion.a
                 href={personalInfo.github}
